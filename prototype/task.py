@@ -5,7 +5,7 @@ class work():
         self.real_time = None
         self.virtual_time = None
 
-    def set_point(self,point):
+    def set_point(self, point):
         self.point = point
         return True
 
@@ -21,4 +21,4 @@ class work():
         return self.real_time/self.point
 
     def differnt_realtime_from_virtual_time(self):
-        return  abs(self.real_time - self.virtual_time)
+        return abs(self.real_time - self.virtual_time)
