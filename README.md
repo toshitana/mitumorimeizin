@@ -3,5 +3,11 @@
 
 ファイル構成
 
-考え中
+project_mitumorimeizin/
+　├ 
+　│　├ 
+　│　├ 
+　│　├ 
+　│　└ 
+
 
