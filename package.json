@@ -1,0 +1,15 @@
+{
+  "name": "mitumorimeizin",
+  "version": "1.0.0",
+  "description": "作業時間を見積もるためのwebアプリケーション",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
