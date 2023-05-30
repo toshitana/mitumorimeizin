@@ -4,7 +4,8 @@
   "description": "作業時間を見積もるためのwebアプリケーション",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": ".\\node_modules\\.bin\\tsc"
   },
   "keywords": [],
   "author": "",
